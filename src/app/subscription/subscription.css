@@ -1,0 +1,9 @@
+:host {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+div { display: flex; gap: 1rem; flex-wrap: wrap; }
+.plan { flex: 1 1 220px; }
+button { margin-top: 0.6rem; }

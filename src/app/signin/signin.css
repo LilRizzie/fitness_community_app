@@ -1,0 +1,7 @@
+:host {
+	display: flex;
+	justify-content: center;
+}
+
+form { width: 100%; max-width: 420px; }
+button { align-self: flex-end; }
