@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "build": "ng build",
-    "start": "serve -s dist/login"
+    "start": "npx serve -s dist/login -l $PORT"
   },
   "private": true,
   "packageManager": "npm@11.5.1",
