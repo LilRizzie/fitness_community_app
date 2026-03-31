@@ -2,11 +2,7 @@
   "name": "login",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "start": "serve -s dist/login"
   },
   "private": true,
   "packageManager": "npm@11.5.1",
